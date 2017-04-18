@@ -1,0 +1,4 @@
+[Default]
+bears = SpaceConsistencyBear
+files = bigM.cpp
+use_spaces = True
